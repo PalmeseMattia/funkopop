@@ -1,5 +1,5 @@
 /* Simple implementation of a list of functions in C.
- * Can python do this?
+ * I'm python rn!
  */
 #include<stdio.h>
 
